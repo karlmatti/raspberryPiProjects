@@ -1,5 +1,4 @@
-import RPI.GPIO as GPIO
-import time
+import RPi.GPIO as GPIO
 from gpiozero import MCP3008
 
 GPIO.setmode(GPIO.BCM)
